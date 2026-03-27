@@ -28,11 +28,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Deaxdshotcb&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Deaxdshotcb&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=Deaxdshotcb&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deaxdshotcb&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Deaxdshotcb&layout=compact&theme=tokyonight)
 
 ---
 
