@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hey, I'm Christy
 
-<!--
-**Deaxdshotcb/Deaxdshotcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BTech CSE Student
+- 💻 Interested in AI / Machine Learning & Game Dev
+- 🏋️ Gym + Discipline = Lifestyle
+- ⚡ Currently building real-world projects
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack
+- Languages: C, Python, JavaScript
+- Frontend: HTML, Tailwind CSS, React
+- Backend: Python, Java Springboot
+- Tools: Git, GitHub
+- Unreal Engine 5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Goals
+- Crack high-level AI roles
+- Build impactful projects
+- Stay consistent (no excuses)
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/christy-biju-4386aa3b3
