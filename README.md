@@ -44,4 +44,5 @@
 ---
 
 ## 📫 Connect with Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/christy-biju-4386aa3b3
+- LinkedIn: https://www.linkedin.com/in/christy-biju-4386aa3b3
+- Instagram: https://www.instagram.com/_cchristyyy_
