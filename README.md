@@ -4,19 +4,21 @@
 
 ### BTech CSE Student • AI/ML Enthusiast • Game Developer
 
-Building things, breaking things, and occasionally figuring out why they broke. 🚀
+Building real-world projects, learning every day, and occasionally fighting bugs that have absolutely no business existing. 🚀
 
-<p>
-  <a href="https://github.com/christy-biju">
-    <img src="https://img.shields.io/github/followers/christy-biju?label=Followers&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/christy-biju?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/christy-biju-4386aa3b3">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/christy-biju">
+  <img src="https://img.shields.io/badge/GitHub-christy--biju-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/christy-biju-4386aa3b3">
+  <img src="https://img.shields.io/badge/LinkedIn-Christy%20Biju-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/_cchristyyy_/">
+  <img src="https://img.shields.io/badge/Instagram-_cchristyyy_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 </div>
 
@@ -25,11 +27,12 @@ Building things, breaking things, and occasionally figuring out why they broke. 
 ## 🚀 About Me
 
 - 🎓 **BTech Computer Science Engineering Student**
-- 🤖 Interested in **AI / Machine Learning**
-- 🎮 Exploring **Game Development with Unreal Engine 5**
-- 💻 Building **real-world applications and projects**
+- 🤖 Focused on **AI / Machine Learning**
+- 🎮 Interested in **Game Development**
+- 💻 Building **real-world software projects**
+- 🧠 Improving **DSA & problem-solving**
 - 🏋️ Gym + discipline + consistency
-- 🧠 Currently improving **DSA, problem solving and software development**
+- ⚡ Always learning something new
 
 ---
 
@@ -41,7 +44,7 @@ Building things, breaking things, and occasionally figuring out why they broke. 
   <img src="https://skillicons.dev/icons?i=c,python,java,js" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
@@ -73,16 +76,16 @@ Building things, breaking things, and occasionally figuring out why they broke. 
 
 **AI Wildlife Monitoring & Alert System**
 
-> An AI-powered system designed to help monitor wildlife activity and provide real-time alerts.
+WildGuard is an AI-powered wildlife monitoring system designed to help reduce human-wildlife conflict through automated detection and real-time alerts.
 
-**Highlights**
+#### ✨ Highlights
 
 - 🧠 AI-based animal detection
-- 📡 Real-time monitoring and alerts
+- 📡 Real-time monitoring & alerts
 - 🌐 Progressive Web App
 - ⚡ Custom computer vision model
 - 💻 Vanilla JavaScript frontend
-- 🌍 Built with real-world human-wildlife conflict in mind
+- 🌍 Designed for real-world wildlife monitoring
 
 ---
 
@@ -90,12 +93,28 @@ Building things, breaking things, and occasionally figuring out why they broke. 
 
 <div align="center">
 
-<img src="./profile/stats.svg" width="49%" />
-<img src="./profile/top-langs.svg" width="49%" />
+<a href="https://github.com/christy-biju">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=christy-biju&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+</a>
+
+<a href="https://github.com/christy-biju">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=christy-biju&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+</a>
 
 <br><br>
 
-<img src="./profile/streak.svg" width="70%" />
+<a href="https://github.com/christy-biju">
+  <img
+    src="https://streak-stats.demolab.com?user=christy-biju&theme=tokyonight&hide_border=true"
+    width="70%"
+  />
+</a>
 
 </div>
 
@@ -105,21 +124,59 @@ Building things, breaking things, and occasionally figuring out why they broke. 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/github-snake.svg">
-  <img alt="GitHub contribution snake" src="./profile/github-snake.svg">
-</picture>
+<img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus
 
-```text
-DSA / LeetCode          ███████████████░░░░░  Improving
-AI / Machine Learning   ████████████░░░░░░░░  Building
-Full Stack Development  █████████████░░░░░░░  Building
-Game Development        ██████████░░░░░░░░░░  Exploring
-GitHub / Open Source    ████████░░░░░░░░░░░░  Growing
+| Area | Focus |
+|------|-------|
+| 🧠 DSA | Problem Solving & LeetCode |
+| 🤖 AI/ML | Machine Learning & AI Projects |
+| 🌐 Development | Full Stack Development |
+| 🎮 Game Dev | Unreal Engine 5 |
+| 🚀 Projects | Building Real-World Applications |
+
+---
+
+## 📈 Goals
+
+- 🧠 Build strong **DSA & problem-solving skills**
+- 🤖 Develop practical **AI/ML applications**
+- 🚀 Build production-quality projects
+- 💼 Prepare for **software engineering & AI/ML roles**
+- 🌱 Become a better developer through consistent practice
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/christy-biju">
+  <img src="https://img.shields.io/badge/GitHub-christy--biju-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/christy-biju-4386aa3b3">
+  <img src="https://img.shields.io/badge/LinkedIn-Christy%20Biju-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/_cchristyyy_/">
+  <img src="https://img.shields.io/badge/Instagram-_cchristyyy_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Keep building. Keep learning. Keep shipping.
+
+</div>
